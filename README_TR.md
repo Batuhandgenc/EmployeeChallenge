@@ -101,6 +101,5 @@ Content-Type: application/json
 **/delete/{id}** endpointi, belirli bir çalışanı silmek için kullanılır. Endpoint'e DELETE isteği atarak silinecek çalışanın kimliğini gönderirsiniz. {id} parametresi, silinecek çalışanın kimliğini belirtir. Örneğin, "/delete/1" endpointi, kimliği 1 olan çalışanı siler.
 
 # Ek bilgiler
-Projeyi geliştirmek veya özelleştirmek isteyenler için backend tarafında Spring Framework, frontend tarafında React kullanılması düşünüyorum. Tasarım kararı olarak fronend tarafında Material UI kullanıldı ve authentication işlemleri JWT ile gerçekleşti.
 
 Katkıda bulunmak isteyenler GitHub reposuna erişim sağlayarak, pull request göndermeden önce testlerden geçirmelerini rica ediyorum.
