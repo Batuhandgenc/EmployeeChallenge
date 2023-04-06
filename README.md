@@ -1,5 +1,5 @@
 # EmployeeChallenge
-This has been done by me based on a given case.
+Tarafıma verilen bir case için oluşturulmuş bir uygulama.
 
 # Gereksinimler
 
